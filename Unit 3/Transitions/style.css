@@ -1,0 +1,17 @@
+img{
+    width:200px;
+    transition:
+    width 0.5s;
+}
+#vetpic1:hover{
+    width: 400px;
+    transition:
+    width 0.5s;
+}
+#vetwithdog:hover{
+    width:400px;
+    rotate:360deg;
+    transition:
+    width 0.5s,
+    rotate 2s;
+}

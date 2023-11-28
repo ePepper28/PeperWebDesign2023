@@ -1,0 +1,84 @@
+#career{
+    background-color: seagreen;
+}
+h3{
+    text-transform:uppercase;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+a{
+    font-size: 16px;
+}
+a{
+    font-style:italic;
+}
+p{
+    text-align:right;
+}
+.vetdescriptions{
+    font-weight:bold;
+}
+main{
+    background-color: lightgreen;
+   
+}
+main{
+    width:70%;
+    margin:15px;
+    padding:10px;
+}
+footer{
+    background-color:lightgreen;
+    margin:50px;
+    padding:10px;
+}
+#background{
+    
+    background-image:url("vetwithdog.jpg");
+}
+#body2{
+    background-image:url(vetpic7.jpg)
+}
+#stepspic{
+    background-color:seagreen;
+}
+.job-title{
+    font-weight:bold;
+}
+.job-title{
+    color:maroon;
+}
+.large-list{
+    font-size:25px;
+    font-weight:bold;
+}
+.short-list{
+    font-size:18px;
+    font-weight:normal;
+}
+img{
+    width:200px;
+    border-color:black;
+    border-style:double;
+}
+#vetpic5:hover{
+    width: 450px;
+    transition:
+    width 0.4s;
+}
+#vetpic10:hover{
+    width: 450px;
+    transition:
+    width 0.4s;
+}
+#vetpic9:hover{
+    width: 450px;
+    transition:
+    width 0.4s;
+}
+#vetpic8:hover{
+    width: 450px;
+    transition:
+    width 0.4s;
+}

@@ -1,0 +1,46 @@
+h3{
+    text-transform:uppercase;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+a{
+    font-size: 16px;
+}
+a{
+    font-style:italic;
+}
+p{
+    text-align:right;
+}
+main{
+    background-color: lightgreen;
+   
+}
+main{
+    width:70%
+}
+footer{
+    background-color:lightgreen;
+}
+body{
+    
+    background-image:url("vetwithdog.jpg");
+}
+.job-title{
+    font-weight:bold;
+}
+.job-title{
+    color:maroon;
+}
+.large-list{
+    font-size:25px;
+    font-weight:bold;
+}
+.short-list{
+    font-size:18px;
+    font-weight:normal;
+}
+img{
+    size: 200px by 200px;
+}

@@ -1,0 +1,29 @@
+h3{
+    text-transform:uppercase;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+a{
+    font-size: 16px;
+}
+a{
+    font-style:italic;
+}
+p{
+    text-align:right;
+}
+main{
+    background-color: lightgreen;
+    height: 80% 
+}
+main{
+    width:70%
+}
+footer{
+    background-color:lightgreen;
+}
+body{
+    
+    background-image:url("vetwithdog.jpg");
+}

@@ -1,0 +1,12 @@
+h2{
+    background-color:steelblue;
+}
+h1{
+    background-color:#a679d2;
+}
+body{
+    background-color:palegoldenrod;
+}
+h2+h4{
+    color:cadetblue;
+}
