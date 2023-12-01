@@ -1,0 +1,23 @@
+body{
+    background-color:#FFD1AA;
+    font-size: 18x;
+}
+h1{
+    color:#003333;
+}
+h2{
+    color:#162955;
+}
+.scientific-name { 
+    font-style:italic;
+}
+#mammals{
+    border-style:dashed;
+}
+.endangered{
+    color:red
+}
+.threatened{
+    color:orangered
+}
+

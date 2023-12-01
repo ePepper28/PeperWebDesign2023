@@ -1,0 +1,17 @@
+.h3{
+    color: #dda0dd;
+    font-style:italic;
+}
+body{
+    background-color: black;
+}
+p{
+    color:lightgreen;
+}
+h1{
+    color:aqua;
+    font-style:oblique;
+}
+li{
+    color:lightgreen;
+}
