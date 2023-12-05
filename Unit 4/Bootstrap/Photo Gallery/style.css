@@ -15,17 +15,37 @@ a{
 a:hover{
     color:#6D7993;;
 }
-
-
-/* Homepage styles*/
 .cover{
     height:300px;
     margin-top:25%;
     background-image: url(swirl.jpg);
     background-size:cover;
 }
-main{
+
+.frontnav1{
+    background-color:#64271b;
+}
+.frontnav2{
+    background-color:#354243;
+}
+.frontnav3{
+    background-color:#80598d;
+}
+.front-nav-1{
     height:200px;
     padding:2em;
     margin-top:2em;
+}
+.front-nav-2{
+    height:200px;
+    padding:2em;
+    margin-top:2em;
+}
+.front-nav-3{
+    height:200px;
+    padding:2em;
+    margin-top:2em;
+}
+.castle{
+    background-color:palevioletred;
 }
