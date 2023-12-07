@@ -49,3 +49,19 @@ a:hover{
 .castle{
     background-color:palevioletred;
 }
+body{
+    background-color:gray;
+}
+h3{
+    background-color:rgb(52, 184, 184);
+}
+h1{
+    color:black;
+}
+.boom{
+    background-color:rgb(253, 155, 188);
+    text-decoration:overline;
+}
+.gallery{
+    background-color:aqua
+}
