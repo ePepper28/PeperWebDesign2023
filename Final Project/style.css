@@ -20,3 +20,16 @@ img{
     background-color:black;
     color:white;
 }
+.background2{
+    background-color:blue;
+}
+.mainpage{
+    background-image:url(theweeknd2.jpg)
+}
+.mainpageinfo{
+    background-color:black;
+    width:70%;
+    margin:15px;
+    padding:10px;
+    color:white;
+}
