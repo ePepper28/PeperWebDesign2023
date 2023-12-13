@@ -12,9 +12,11 @@ img{
 .showcase{
     background-color:red;
 }
-.albums{
-    width: 350px;
-    height:300px;
+.albums:hover{
+    width: 600;
+    height:500px;
+    width: 450px;
+    transition: 0.4s
 }
 #title2{
     background-color:black;
@@ -26,10 +28,13 @@ img{
 .mainpage{
     background-image:url(theweeknd2.jpg)
 }
-.mainpageinfo{
+#mainpageinfo{
     background-color:black;
     width:70%;
     margin:15px;
     padding:10px;
     color:white;
+}
+#maintitle{
+    background-color:red;
 }
