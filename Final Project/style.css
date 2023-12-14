@@ -13,18 +13,22 @@ img{
 .showcase{
     background-color:red;
 }
+.albums{
+    width:250px;
+    height:250px;
+}
 .albums:hover{
-    width: 600;
-    height:500px;
+    height:300px;
     width: 450px;
-    transition: 0.4s
+    transition: 0.4s;
 }
 #title2{
     background-color:black;
     color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 .background2{
-    background-color:blue;
+    background-color:rgb(190, 190, 242);
 }
 .mainpage{
     background-image:url(theweeknd2.jpg)
@@ -41,4 +45,20 @@ img{
 }
 #navigate{
     background-color:crimson;
+}
+h3{
+    color:blue;
+}
+#link1:hover{
+    font-size:30px;
+}
+#link2:hover{
+    font-size:30px;
+}
+#link3:hover{
+    font-size:30px;
+}
+.contact{
+    font-size:40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
