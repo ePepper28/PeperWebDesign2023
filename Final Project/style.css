@@ -2,8 +2,13 @@
     background-color:violet;
 }
 img{
+    width:400px;
+    height:300px;
+}
+img:hover{
     width: 500px;
     height:400px;
+    transition: 0.4s;
 }
 .intro{
     font-weight:bold;
@@ -70,4 +75,12 @@ h3{
 #top5part2{
     background-color:blueviolet;
     color:black;
+}
+.about1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:purple;
+}
+.abouttitle{
+    background-color:purple;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
