@@ -26,13 +26,23 @@
         <title>My First Bootstrap Page</title>
 
 </head>
-<header><h1 id="title2">The Weeknd's Accomplishments</h1></header>
+<header>
+  <h1 id="title2">The Weeknd's Accomplishments</h1>
+  <nav class="nav">
+    <ul class="nav nav-tabs">
+        <li class="nav-item"> <a class="nav-link" href="homepage.html">Home Page</a></li>
+        <li class="nav-item"><a class="nav-link " href="about.html" >About The Weeknd</a></li>
+        <li class="nav-item">  <a class="nav-link active "  href="showcase.html" >Showcase</a></li>
+        <li class="nav-item">  <a class="nav-link" href="contact.html" >Contact Info</a></li>
+    </ul>
+</nav>
+</header>
 <main>
     <body class="container showcase">
-      <p>The Weeknd has won various awards for his albums and individual songs due to his magical voice.  </p>
+      <p>The Weeknd has won various awards for his albums and individual songs due to his magical voice. Listed below are some of the awards he has won, how many streams he has recieved on his top hit albums, and the amount of streams  </p>
     
       <hr>
-      <h1>The Weeknd's Albums</h1>
+      <h1 id="top5part2">The Weeknd's Albums</h1>
       <img src="awards.png" class="rounded-circle albums">
       <table class="table">
         <thead>
@@ -74,7 +84,7 @@
             <th scope="col">Daily Streams</th>
           </tr>
         </thead>
-        <h1>The Weeknd's Most Popular Songs</h1>
+        <h1 id="top5part2">The Weeknd's Most Popular Songs</h1>
         <tbody>
           <tr>
             <th scope="row">#1</th>
@@ -97,9 +107,10 @@
         </tbody>
       </table>
       <p id="top5">
-        <h3>The Weeknd's Top 5 Awards</h3>
-        The Weeknd has won over 120 awards in his career, and that amount it is hard to document each one and what it was for. So, here are his top 5 most famous and special awards he has gotten for his talents.
-        <ol>
+        <h3 id="top5part2">The Weeknd's Top 5 Awards</h3>
+        <p id="top5">The Weeknd has won over 120 awards in his career, and that amount it is hard to document each one and what it was for. So, here are his top 5 most famous and special awards he has gotten for his talents.
+        </p>
+          <ol id="top5">
           <li>75 Billboard Music Awards</li>
           <li>4 Grammies</li>
           <li>4 Guiness World Records</li>

@@ -25,7 +25,7 @@ img{
 #title2{
     background-color:black;
     color:white;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .background2{
     background-color:rgb(190, 190, 242);
@@ -60,5 +60,14 @@ h3{
 }
 .contact{
     font-size:40px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:blueviolet;
+}
+#top5{
+    background-color:black;
+    color:white;
+}
+#top5part2{
+    background-color:blueviolet;
+    color:black;
 }
